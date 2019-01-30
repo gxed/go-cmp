@@ -1,0 +1,16 @@
+{
+  "author": "hsanjuan",
+  "bugs": {
+    "url": "https://github.com/google/go-cmp"
+  },
+  "gx": {
+    "dvcsimport": "github.com/google/go-cmp"
+  },
+  "gxVersion": "0.14.0",
+  "language": "go",
+  "license": "BSD-3-Clause",
+  "name": "go-cmp",
+  "releaseCmd": "git commit -a -m \"gx publish $VERSION\"",
+  "version": "0.2.0"
+}
+
